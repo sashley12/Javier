@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-hairstyle">
+    <title>How to style your hair in a fashionable way</title>
+    <shortdesc>Using hair gel to style your hair is a surefire way to look good and attract new friends.</shortdesc>
+    <taskbody>
+      <prereq>
+          <ul>
+              <li>Hair gel</li>
+              <li>A comb</li>
+          </ul>
+      </prereq>
+        <steps>
+            <step>
+                <cmd>Find the hair gel and comb under the bathroom sink upstairs.</cmd>
+            </step>
+            <step>
+                <cmd>Unscrew the hair gel container's lid.</cmd>
+            </step>
+            <step>
+                <cmd>Wet your hands and run them through your hair.</cmd>
+            </step>
+            <step>
+                <cmd>Scoop  quarter-sized dollop of gel from the container and slather through your hair.</cmd>
+            <info>Using too much hair gel will make your hair look greasy.</info>
+            </step>
+            <step>
+                <cmd>Use the comb to style your hair in the direction you want.</cmd>
+            </step>
+        </steps>
+        <result>Your hair is going to look super cool.</result>
+    </taskbody>
+</task>

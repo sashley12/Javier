@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-make-friends">
+    <title>How to make friends in class</title>
+    <shortdesc>If you look good, smell good, and are feeling confident, now is the time to make
+        friends in class. </shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Good personal hygiene</li>
+                <li>A friendly disposition</li>
+                <li>A Facebook account</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Arrive at your class at least 15 minutes early.</cmd>
+            </step>
+            <step>
+                <cmd>Sit next to a classmate.</cmd>
+                <info>
+                    <note type="tip">If your classmates have headphones in, they probably don't want to be bothered.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Introduce yourself by shaking hands and making direct eye contact.</cmd>
+            </step>
+            <step>
+                <cmd>Make smalltalk about the class.</cmd>
+            </step>
+            <step>
+                <cmd>Find your classmate on Facebook, and add him/her as a friend. </cmd>
+            </step>
+        </steps>
+        <result>Congratulations! You have a new friend!</result>
+    </taskbody>
+</task>

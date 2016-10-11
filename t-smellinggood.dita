@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-smell-good">
+    <title>How to smell good for your peers</title>
+    <shortdesc>Smelling bad is not a good way to make friends. Use these steps to make sure you
+        always smell fresh. </shortdesc>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>Tea tree oil</li>
+                <li>A spray bottle</li>
+                <li>Water</li>
+                <li>Deoderant</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Fill the spray bottle halfway with lukewarm water.</cmd>
+            </step>
+            <step>
+                <cmd>Squeeze 3 drops of tea tree oil into the spray bottle.</cmd>
+            </step>
+            <step>
+                <cmd>Close the spray bottle and shake the contents for 10 seconds.</cmd>
+            </step>
+            <step>
+                <cmd>Mist your underarms with the tea tree oil solution.</cmd>
+            </step>
+            <step>
+                <cmd>Apply deoderant as usual.</cmd>
+            </step>
+        </steps>
+        <result>
+            You will smell super nice. 
+        </result>
+    </taskbody>
+</task>
